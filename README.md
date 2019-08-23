@@ -1,3 +1,6 @@
+## What is it
+Youtube to mp3 online convertor
+
 ##  How to run locally
     * use .env_example or env_local as reference for creating .env file
 1. Run rabbitmq locally
