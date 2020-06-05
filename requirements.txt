@@ -4,7 +4,7 @@ celery==4.2.1
 certifi==2018.11.29
 chardet==3.0.4
 decorator==4.3.0
-Django==2.1.4
+Django==2.2.13
 django-crispy-forms==1.7.2
 django-environ==0.4.5
 gunicorn==19.9.0
